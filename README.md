@@ -1,4 +1,7 @@
-## Hi there 👋
+# Breno Silva
+
+**`Estudante de Ciência da Computação @inteli_edu`**
+
 
 <!--
 **brenofgsilva/brenofgsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
